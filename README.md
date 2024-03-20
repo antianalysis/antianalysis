@@ -1,4 +1,4 @@
-(img align="right" alt="KiRa" width="400" src="https://cdn.discordapp.com/attachments/1219329706927587400/1219816719804010506/GreatKiRa.gif?ex=660cadd9&is=65fa38d9&hm=ba1535228f95c5b0c29ceadd3584e191de2cf50133f3d478be4a264ee56f40fb&")
+![GreatKiRa](https://github.com/antianalysis/antianalysis/assets/69890826/7b3819d7-ee96-4142-81cf-4d09926ed9c1)
 
 # 💫 About Me:
 🔭 Hi I'm GreatKiRa<br>⚡ I’m a Self-taught Penetration Tester interested in IoT, RedTeaming & Cyber security, Malware Development.<br>💬 Ask me about RedTeaming & Cyber security & Malware Development & Malware Analysis<br>
