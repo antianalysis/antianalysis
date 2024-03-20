@@ -1,4 +1,4 @@
-(img align="right" alt="KiRa" width="400" src="https://i.ibb.co/GR244rp/Great-Ki-Ra.gif")
+[![MasterHead](https://i.ibb.co/GR244rp/Great-Ki-Ra.gif)]
 
 # 💫 About Me:
 🔭 Hi I'm GreatKiRa<br>⚡ I’m a Self-taught Penetration Tester interested in IoT, RedTeaming & Cyber security, Malware Development.<br>💬 Ask me about RedTeaming & Cyber security & Malware Development & Malware Analysis<br>
