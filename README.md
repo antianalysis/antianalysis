@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/GR244rp/Great-Ki-Ra.gif)]
+(img align="right" alt="KiRa" width="400" src="https://cdn.discordapp.com/attachments/1219329706927587400/1219816719804010506/GreatKiRa.gif?ex=660cadd9&is=65fa38d9&hm=ba1535228f95c5b0c29ceadd3584e191de2cf50133f3d478be4a264ee56f40fb&")
 
 # 💫 About Me:
 🔭 Hi I'm GreatKiRa<br>⚡ I’m a Self-taught Penetration Tester interested in IoT, RedTeaming & Cyber security, Malware Development.<br>💬 Ask me about RedTeaming & Cyber security & Malware Development & Malware Analysis<br>
