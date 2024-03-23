@@ -43,12 +43,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antianalysis&layout=compact&theme=buefy&show_icons=true&langs_count=6" />
 </p>
 
-### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=antianalysis&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ### 😂 Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
