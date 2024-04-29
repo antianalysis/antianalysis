@@ -43,9 +43,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antianalysis&layout=compact&theme=buefy&show_icons=true&langs_count=6" />
 </p>
 
-### 😂 Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=antianalysis&icon=0&color=0)](https://visitcount.itsvg.in)
 
